@@ -1,0 +1,45 @@
+.mrs-eaves-xl-seri{
+    font-family: 'mrs-eaves-xl-serif',serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.mr-eaves-modern{
+    font-family: 'mr-eaves-modern',sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.brand-color{
+    color: #333333;
+}
+
+.white-brand-color{
+    color: #D1D1D1
+}
+.navbar-inverse .navbar-brand{
+    color: #D1D1D1
+}
+
+.bg-brand-color{
+    background-color: #333333;
+}
+
+.jumbotron{
+    background-image: url('https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60');
+    background-size: cover;
+    margin-bottom: 0px;
+}
+
+.jumbotron p{
+    padding-left: 15px;
+}
+
+.navbar {
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+
+.brand-color-bar{
+    height: 2em;
+}
