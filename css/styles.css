@@ -11,24 +11,32 @@
 }
 
 .brand-color{
-    color: #333333;
+    color: #171717;
 }
 
 .white-brand-color{
     color: #D1D1D1
+}
+
+body{
+    background-color: #D1D1D1;
+}
+.navbar-inverse{
+    background-color: #171717;
 }
 .navbar-inverse .navbar-brand{
     color: #D1D1D1
 }
 
 .bg-brand-color{
-    background-color: #333333;
+    background-color: #171717;
 }
 
 .jumbotron{
     background-image: url('https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60');
     background-size: cover;
     margin-bottom: 0px;
+    height: 25em;
 }
 
 .jumbotron p{
@@ -42,4 +50,39 @@
 
 .brand-color-bar{
     height: 2em;
+    margin-bottom: 1em;
 }
+
+/* .div{
+    display: inline-block;
+} */
+
+img{
+    width: 350px;
+    margin: 10px;
+}
+
+.col-md-4{
+    display:inline;
+}
+
+.info-images{
+    margin-bottom: 1em;
+    border: 5px solid #171717;
+    border-radius: 5px;
+}
+
+footer{
+    height: 2em;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #171717;
+}
+
+/* button{
+    align-self: center; 
+    margin-left: 40%;
+    margin-right: 40%;
+} */
