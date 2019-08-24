@@ -61,7 +61,7 @@ body{
 }
 
 /* Law Logo */
-.fas{
+.navbar .fas{
     color: white;
     margin-right: 2px;
 }
@@ -111,6 +111,14 @@ button{
 
 .btn{
     font-size: 1.75em;
+}
+
+.img-row .fas{
+    font-size: 100px;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding-top: 5%;
+    color: #A6A6A6;
 }
 
 /* Footer */
