@@ -11,6 +11,7 @@
     font-style: normal;
 }
 
+
 /* Brand Colors */
 
 .brand-color{
@@ -312,6 +313,19 @@ button a:active {
 
 .img-row .fas:hover{
     color:#707070;
+}
+
+/* Signup and Login Styles */
+
+.form-container{
+    margin-top: 2em;
+}
+
+label{
+    font-family: 'mr-eaves-modern',sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 1.5em;
 }
 
 /* Footer */
