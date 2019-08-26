@@ -331,11 +331,12 @@ label{
 
 /* UX/UI PAGE */
     iframe{ 
-        padding-top: 3em;
+        padding-top: 5em;
     }
 
-    .design-h1{
-        padding-top: 1em;
+    .design-p{
+        font-size: 1.75em;
+        hyphens: none;
     }
 
 
