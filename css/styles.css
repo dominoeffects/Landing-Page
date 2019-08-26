@@ -331,7 +331,7 @@ label{
 
 /* UX/UI PAGE */
     iframe{ 
-        padding-top: 5em;
+        margin-top: 15%;
     }
 
     .design-p{
@@ -339,8 +339,40 @@ label{
         hyphens: none;
     }
 
+/* Services */
+    /* .container-services h1{
+        text-align: center;
+    } */
 
     
+
+    .container-services .fas{
+        margin-left: 50%;
+        margin-top: 1em;
+        font-size: 10em;
+        color: #A6A6A6;
+    }
+
+    .container-services .fas:hover{
+        color:#707070;
+    }
+
+    /* contact */
+
+    .container-contact h1{
+        display: inline;
+        font-size: 5em;
+    }
+
+    .container-contact i{
+        font-size: 90px;
+    }
+
+    .container-contact h3{
+        font-size: 3em;
+        margin-left: 10%;
+    }
+
 
 /* Footer */
 footer{
@@ -468,6 +500,36 @@ address{
 
     .login-jumbo p{
         margin-left: 40%;
+    }
+
+    /* contact */
+
+    .container-services .fas{
+        margin-left: 50%;
+        margin-top: 1em;
+        font-size: 10em;
+        color: #A6A6A6;
+    }
+
+    .container-services .fas:hover{
+        color:#707070;
+    }
+
+    /* contact */
+
+    .container-contact h1{
+        display: inline;
+        font-size: 60px;
+    }
+
+    .container-contact i{
+        display: inline;
+        font-size: 60px;
+    }
+
+    .container-contact h3{
+        font-size: 2em;
+        margin-left: 15%;
     }
 } 
 
