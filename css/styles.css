@@ -1,0 +1,540 @@
+/* Adobe Font Styles */
+.mrs-eaves-xl-seri{
+    font-family: 'mrs-eaves-xl-serif',serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.mr-eaves-modern{
+    font-family: 'mr-eaves-modern',sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+/* Brand Colors */
+
+.brand-color{
+    color: #171717;
+}
+
+.white-brand-color{
+    color: #D1D1D1
+}
+
+body{
+    background-color: #D1D1D1;
+    font-size: 12px;
+    margin-bottom:200px;
+}
+.navbar-inverse{
+    background-color: #171717;
+}
+.navbar-inverse .navbar-brand{
+    color: #D1D1D1
+}
+
+.bg-brand-color{
+    background-color: #171717;
+}
+
+/* Jumbotron */
+
+    /* jumbotron images */
+.index-jumbo{
+    background-image: url('https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60');
+    background-size: cover;
+    margin-bottom: 0px;
+    height: 25em;
+}
+
+.services-jumbo{
+    background-image: url('https://images.unsplash.com/photo-1468779036391-52341f60b55d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3321&q=80');
+    background-size: cover;
+    margin-bottom: 0px;
+    height: 25em;
+}
+
+.design-jumbo{
+    background-image: url('https://images.unsplash.com/photo-1535598745644-bc7913bb1a2a?ixlib=rb-1.2.1&auto=format&fit=crop&w=2255&q=80');
+    background-size: cover;
+    margin-bottom: 0px;
+    height: 25em;
+}
+
+.contact-jumbo{
+    background-image: url('https://images.unsplash.com/photo-1493934558415-9d19f0b2b4d2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2072&q=80');
+    background-size: cover;
+    margin-bottom: 0px;
+    height: 25em;
+}
+
+.signup-jumbo{
+    background-image: url('https://images.unsplash.com/photo-1512645592367-97ba8a9d4035?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2238&q=80');
+    background-size: cover;
+    margin-bottom: 0px;
+    height: 25em;
+}
+
+.login-jumbo{
+    background-image: url('https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80');
+    background-size: cover;
+    margin-bottom: 0px;
+    height: 25em;
+}
+    /* jumbotron text */
+.index-jumbo .fas{
+    color: #171717;
+    display: inline-block;
+    font-size: 100px;
+    margin-right: 10px;
+}
+
+.index-jumbo h1{
+    color: #171717;
+    display: inline;
+    font-size: 100px;
+}
+    
+.index-jumbo p{
+    color: #171717;
+    margin-left: 19%;
+    font-size: 30px;
+}
+
+.services-jumbo .fas{
+    color: #171717;
+    display: inline-block;
+    font-size: 100px;
+    margin-right: 10px;
+}
+
+.services-jumbo h1{
+    color: #171717;
+    display: inline;
+    font-size: 80px;
+}
+    
+.services-jumbo p{
+    color: #171717;
+    margin-left: 19%;
+    font-size: 30px;
+}
+
+.design-jumbo .fas{
+    color: #171717;
+    display: inline-block;
+    font-size: 100px;
+    margin-right: 10px;
+}
+
+.design-jumbo h1{
+    color: #171717;
+    display: inline;
+    font-size: 80px;
+}
+    
+.design-jumbo p{
+    color: #171717;
+    margin-left: 40%;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.contact-jumbo .fas{
+    color: #171717;
+    display: inline-block;
+    font-size: 100px;
+    margin-right: 10px;
+}
+
+.contact-jumbo h1{
+    color: #171717;
+    display: inline;
+    font-size: 100px;
+}
+    
+.contact-jumbo p{
+    color: #171717;
+    margin-left: 32%;
+    font-size: 30px;
+}
+
+.signup-jumbo .fas{
+    color: #171717;
+    display: inline-block;
+    font-size: 100px;
+    margin-right: 10px;
+}
+
+.signup-jumbo h1{
+    color: #171717;
+    display: inline;
+    font-size: 100px;
+}
+    
+.signup-jumbo p{
+    color: #171717;
+    margin-left: 14%;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.login-jumbo .fas{
+    color: #171717;
+    display: inline-block;
+    font-size: 80px;
+    margin-right: 10px;
+    margin-left: 10%
+}
+
+.login-jumbo h1{
+    color: #171717;
+    display: inline;
+    font-size: 80px;
+}
+    
+.login-jumbo p{
+    color: #171717;
+    margin-left: 41%;
+    font-size: 30px;
+    font-weight: 700;
+}
+    /* Jumbotron text containers */
+.index-jumbo-text{
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.services-jumbo-text{
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.design-jumbo-text{
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.contact-jumbo-text{
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.signup-jumbo-text{
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.login-jumbo-text{
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+/* Navbar */
+.navbar {
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+
+    /* Law Logo */
+.navbar .fas{
+    color: white;
+    margin-right: 2px;
+}
+
+/* Black Spacing Bar */
+.brand-color-bar{
+    height: 2em;
+    margin-bottom: 1em;
+}
+
+/* Row of Images and buttons */
+
+img{
+    width: 350px;
+    margin: 10px;
+}
+
+.col-md-4{
+    display:inline;
+}
+
+.info-images{
+    margin-bottom: 1em;
+    border: 5px solid #171717;
+    border-radius: 5px;
+}
+
+
+button{
+    background-color: #789681;
+    color: white;
+    font-family: 'mr-eaves-modern',sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.btn{
+    font-size: 1.75em;
+}
+
+.btn:hover {
+    color: #233D26;
+}
+
+        /* Button unvisited link */
+button a:link {
+    color: white;
+  }
+  
+        /* Button visited link */
+button a:visited {
+    color: #D1D1D1;
+  }
+  
+        /* Button mouse over link */
+button a:hover {
+    color: #233D26;
+    text-decoration: none;
+  }
+  
+        /* Button selected link */
+button a:active {
+    color: white;
+  }
+
+.img-row .fas{
+    font-size: 100px;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding-top: 5%;
+    color: #A6A6A6;
+}
+
+.img-row .fas:hover{
+    color:#707070;
+}
+
+/* Signup and Login Styles */
+
+.form-container{
+    margin-top: 2em;
+}
+
+label{
+    font-family: 'mr-eaves-modern',sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 1.5em;
+}
+
+/* UX/UI PAGE */
+    iframe{ 
+        margin-top: 15%;
+    }
+
+    .design-p{
+        font-size: 1.75em;
+        hyphens: none;
+    }
+
+/* Services */
+    /* .container-services h1{
+        text-align: center;
+    } */
+
+    
+
+    .container-services .fas{
+        margin-left: 50%;
+        margin-top: 1em;
+        font-size: 10em;
+        color: #A6A6A6;
+    }
+
+    .container-services .fas:hover{
+        color:#707070;
+    }
+
+    /* contact */
+
+    .container-contact h1{
+        display: inline;
+        font-size: 5em;
+    }
+
+    .container-contact i{
+        font-size: 90px;
+    }
+
+    .container-contact h3{
+        font-size: 3em;
+        margin-left: 10%;
+    }
+
+
+/* Footer */
+footer{
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    background-color: #171717;
+    color: white;
+    margin-bottom: 0px;
+}
+
+address{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* Media Querries */
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    
+} 
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+/* @media only screen and (min-width: 600px) {...}  */
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+     
+} 
+
+
+@media only screen and (max-width: 1198px){
+    img{
+        width: 300px;
+    }
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (max-width: 992px) {
+    
+
+    img{
+        width: 100%;
+        margin: 0 auto;
+    }
+    .img-row .fas{
+        display: none;
+    }
+
+/* Jumbotron */
+    .jumbotron .fas-index{
+        font-size: 70px;
+    }
+    
+    .index-jumbo h1{
+        font-size: 6em;
+    }
+
+    .index-jumbo p{
+        margin-left: 20%;
+    }
+
+    .services-jumbo .fas{
+        font-size: 60px;
+    }
+
+    .services-jumbo h1{
+        font-size: 5em;
+    }
+
+    .services-jumbo p{
+        margin-left: 18%;
+        font-size: 2em;
+    }
+
+    .design-jumbo .fas{
+        font-size: 60px;
+    }
+
+    .design-jumbo h1{
+        font-size: 6em;
+    }
+
+    .design-jumbo p{
+        margin-left: 40%;
+        font-size: 3em;
+    }
+
+    .contact-jumbo .fas{
+        font-size: 50px;
+    }
+
+    .contact-jumbo h1{
+        font-size: 5em;
+    }
+
+    .contact-jumbo p{
+        margin-left: 21%;
+        font-size: 2em;
+    }
+
+    .signup-jumbo .fas{
+        font-size: 60px;
+    }
+
+    .signup-jumbo h1{
+        font-size: 6em;
+    }
+
+    .signup-jumbo p{
+        margin-left: 5%;
+        font-size: 2.25em;
+    }
+
+    .login-jumbo .fas{
+        font-size: 50px;
+        margin-left: 15%;
+    }
+
+    .login-jumbo h1{
+        font-size: 5em;
+    }
+
+    .login-jumbo p{
+        margin-left: 40%;
+    }
+
+    /* contact */
+
+    .container-services .fas{
+        margin-left: 50%;
+        margin-top: 1em;
+        font-size: 10em;
+        color: #A6A6A6;
+    }
+
+    .container-services .fas:hover{
+        color:#707070;
+    }
+
+    /* contact */
+
+    .container-contact h1{
+        display: inline;
+        font-size: 60px;
+    }
+
+    .container-contact i{
+        display: inline;
+        font-size: 60px;
+    }
+
+    .container-contact h3{
+        font-size: 2em;
+        margin-left: 15%;
+    }
+} 
+
+
+
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+/* @media only screen and (min-width: 1200px) {...} */
